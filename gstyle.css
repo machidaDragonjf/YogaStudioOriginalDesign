@@ -1,0 +1,118 @@
+li {
+    font-family: 'Dancing Script', cursive;
+   
+   font-size: 32px;
+}
+
+.i1 {
+
+ width: 100px;
+ height: 100px;   
+}
+
+.navbar-brand {
+font-size: 70px;
+font-family: 'Kaushan Script', cursive;
+color: rgb(0, 0, 0)
+}
+
+
+img {
+    width: 80%;
+    
+}
+
+.my {
+    margin-top: 200px;
+    height: 800px;
+    background-color:blue;
+}
+
+body{
+     /* background-color:#62649c */
+     background-color: #a5bcce;
+} 
+
+.sect {
+    height: 50px;
+}
+
+ .card {
+    width: 345px;
+    height: 380px;
+    box-shadow: 5px 5px 5px rgb(53, 50, 50);
+    
+}
+.card-img-top {
+    width: 286px;
+    height: 350px;
+   
+}
+.card-body {
+    width: 400px;
+    
+}
+
+.space {
+    height: 120px;
+
+}
+
+.alert {
+    width: 50%;
+    font-family: 'Dancing Script', cursive;
+}
+
+.ann {
+    box-shadow: 5px 5px 5px rgb(61, 58, 58);
+    width: 130%;
+    height: 100%; 
+
+    
+}
+
+.classes {
+    justify-content: center;
+    width: 170%;
+    height: 100%;
+    box-shadow: 5px 5px 5px rgb(46, 45, 45);
+    border-radius: 50%; 
+}
+
+h4 {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+    color: #303249;
+  
+    
+}
+
+.fome {
+    background-color: #e7eef4;
+
+}
+
+.space2 {
+    margin-top: -20px;
+    height: 100px;
+    background-color: #e7eef4;
+}
+
+.lil {
+background-color: #ddeaf3;
+width: 50%;
+height: 80px; 
+box-shadow: 5px 5px 5px rgb(61, 58, 58);
+}
+
+.jumbotron {
+    box-shadow: 5px 5px 5px rgb(83, 80, 80);
+}
+
+.shadow {
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+.img-fluid {
+    justify-content:center;
+}
